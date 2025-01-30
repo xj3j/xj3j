@@ -5,7 +5,7 @@
 ```csharp
 github.com/xj3j
 dc   $  @xj3j
-tiktok  $  www.tiktok.com/@ifwxj3j
+tiktok  $  @ifwxj3j
 ```
 &zwnj; 
 &zwnj; 
