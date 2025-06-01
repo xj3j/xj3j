@@ -1,12 +1,11 @@
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xj3j&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xj3j&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xj3j&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xj3j+%7C+snow)](https://git.io/typing-svg)
-<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JnYm41cWJmM2J2ZGNzM3ZsYmdyY2hrZ2V2cHEzMDRtajMzdzNxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EkvPCPr6E5ywvPMXX/giphy.gif" width="147"/> 
+---
+[![](https://visitcount.itsvg.in/api?id=xj3j&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```csharp
-github.com/xj3j
-dc   $  @xj3j
-tiktok  $  @ifwxj3j
-```
-&zwnj; 
-&zwnj; 
-![](https://komarev.com/ghpvc/?username=hris69)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
